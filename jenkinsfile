@@ -1,2 +1,6 @@
 this is from dev2
+<<<<<<< HEAD
 this is second line from dev2
+=======
+this is from dev1
+>>>>>>> e415122ff17bdc76347c22389f019eda5c1b6e21
